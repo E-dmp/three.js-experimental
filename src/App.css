@@ -53,3 +53,7 @@ a:hover {
   color: #fff;
   background: #000;
 }
+
+.textBox{
+  width: 300px;
+}
